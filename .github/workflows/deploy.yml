@@ -27,6 +27,7 @@ jobs:
           node-version: 18
           cache: 'npm'
 
+      # 👇 qui la riga modificata (usa npm install, non npm ci)
       - name: Install dependencies
         run: npm install
 
