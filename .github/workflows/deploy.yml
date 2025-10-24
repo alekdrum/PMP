@@ -25,9 +25,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: 'npm'
+          # cache: 'npm'   <-- RIMOSSO perché non c'è un lockfile
 
-      # 👇 qui la riga modificata (usa npm install, non npm ci)
       - name: Install dependencies
         run: npm install
 
