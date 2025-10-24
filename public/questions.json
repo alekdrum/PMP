@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "Q001",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Due membri monopolizzano la daily. Cosa fai?",
+    "options": {
+      "A": "Timekeeper ruotato e reminder al timebox",
+      "B": "Ignori",
+      "C": "Allunghi la daily",
+      "D": "Li muti"
+    },
+    "correct": "A",
+    "rationale": "Timeboxing leggero favorisce l’autogestione."
+  },
+  {
+    "id": "Q002",
+    "domain_ECO": "Process",
+    "performance_domain": "Planning",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Molte assunzioni critiche non verificate.",
+    "options": {
+      "A": "Accetti tutte",
+      "B": "Solo riserva management",
+      "C": "Pianifichi attività di validazione",
+      "D": "Escali allo sponsor"
+    },
+    "correct": "C",
+    "rationale": "Riduci incertezza con validazioni mirate."
+  },
+  {
+    "id": "Q003",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Regolatore chiede un nuovo report.",
+    "options": {
+      "A": "Blocchi tutto",
+      "B": "Valuti impatto e aggiorni piano comunicazione",
+      "C": "Ignori",
+      "D": "Chiedi budget e riparti"
+    },
+    "correct": "B",
+    "rationale": "Compliance via change + comunicazione."
+  },
+  {
+    "id": "Q004",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Hard",
+    "stem": "SPI=0,8 e CPI=1,1 indicano…",
+    "options": {
+      "A": "Ritardo e sotto budget",
+      "B": "Anticipo e sopra budget",
+      "C": "Anticipo e sotto budget",
+      "D": "Ritardo e sopra budget"
+    },
+    "correct": "A",
+    "rationale": "SPI<1 ritardo; CPI>1 costi migliori."
+  },
+  {
+    "id": "Q005",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Stakeholder chiave non partecipa.",
+    "options": {
+      "A": "Escali subito",
+      "B": "Capisci barriere e adatti ingaggio",
+      "C": "Rimuovi dallo stakeholder register",
+      "D": "Prosegui senza"
+    },
+    "correct": "B",
+    "rationale": "Engagement su misura prima dell’escalation."
+  },
+  {
+    "id": "Q006",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Un membro junior fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q007",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Un membro UX fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q008",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Un membro junior fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q009",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Un membro data engineer fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q010",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Un membro junior fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q011",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Un membro QA fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q012",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Un membro esterno fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q013",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Un membro UX fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q014",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Un membro UX fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q015",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Un membro QA fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q016",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Un membro junior fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q017",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Un membro part-time fatica a chiudere la story. Prima azione?",
+    "options": {
+      "A": "Riassegni tutto",
+      "B": "Pairing/coaching con collega esperto",
+      "C": "Escali al manager",
+      "D": "Allunghi la sprint"
+    },
+    "correct": "B",
+    "rationale": "Favorisci apprendimento senza abbassare DoD."
+  },
+  {
+    "id": "Q018",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "Uno stakeholder partner chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q019",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Uno stakeholder audit chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q020",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Uno stakeholder audit chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q021",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Easy",
+    "stem": "Uno stakeholder procurement chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q022",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "Uno stakeholder regolatore chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q023",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Uno stakeholder legale chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q024",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "Uno stakeholder partner chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q025",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Uno stakeholder risk management chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q026",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Uno stakeholder partner chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q027",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "Uno stakeholder legale chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q028",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Uno stakeholder security chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q029",
+    "domain_ECO": "People",
+    "performance_domain": "Stakeholder",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Uno stakeholder marketing chiede update continui. Cosa fai?",
+    "options": {
+      "A": "Ignori",
+      "B": "Definisci canale e cadenza nel piano di comunicazione",
+      "C": "Accesso illimitato a tutto",
+      "D": "Demandi allo sponsor"
+    },
+    "correct": "B",
+    "rationale": "Trasparenza sostenibile con cadenza concordata."
+  },
+  {
+    "id": "Q030",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q031",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q032",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q033",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q034",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q035",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q036",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q037",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q038",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q039",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q040",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q041",
+    "domain_ECO": "Process",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "PO vuole inserire lavoro extra a metà iterazione.",
+    "options": {
+      "A": "Nuovo item in backlog e rinegoziazione",
+      "B": "Accetti tutto",
+      "C": "Cambi storie in corso",
+      "D": "Allunghi l’iterazione"
+    },
+    "correct": "A",
+    "rationale": "Proteggi focus e passa dal backlog."
+  },
+  {
+    "id": "Q042",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Easy",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q043",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Hard",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q044",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Hard",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q045",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Easy",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q046",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Hard",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q047",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Easy",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q048",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Hard",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q049",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Hard",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q050",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q051",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Easy",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q052",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q053",
+    "domain_ECO": "Process",
+    "performance_domain": "Risk",
+    "approach": "Predictive",
+    "difficulty": "Hard",
+    "stem": "Rischio frequente a basso impatto.",
+    "options": {
+      "A": "Accettazione attiva con piani rapidi",
+      "B": "Trasferimento",
+      "C": "Evitare progetto",
+      "D": "Escalation"
+    },
+    "correct": "A",
+    "rationale": "Accettazione con contingenze è adeguata."
+  },
+  {
+    "id": "Q054",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Easy",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q055",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q056",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q057",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q058",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Easy",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q059",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q060",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q061",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q062",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q063",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q064",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q065",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Uncertainty",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "Alta incertezza tecnica e normativa.",
+    "options": {
+      "A": "Piano fisso annuale",
+      "B": "Stage gate + iterazioni esplorative",
+      "C": "Solo Kanban senza review",
+      "D": "Ignorare compliance"
+    },
+    "correct": "B",
+    "rationale": "Ibrido con controlli e learning loop."
+  },
+  {
+    "id": "Q066",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q067",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q068",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q069",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q070",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q071",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q072",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q073",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q074",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q075",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q076",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q077",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Metriche utili per decisioni.",
+    "options": {
+      "A": "Ore lavorate",
+      "B": "Lead time, soddisfazione utente, difetti",
+      "C": "Linee di codice",
+      "D": "Solo story points come KPI esterno"
+    },
+    "correct": "B",
+    "rationale": "Outcome/flow > vanity metrics."
+  },
+  {
+    "id": "Q078",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q079",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q080",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q081",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q082",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q083",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q084",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q085",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q086",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q087",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q088",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q089",
+    "domain_ECO": "Process",
+    "performance_domain": "Quality",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Come si costruisce qualità?",
+    "options": {
+      "A": "Solo ispezione finale",
+      "B": "DoD, test automatici, code review",
+      "C": "Più burocrazia",
+      "D": "Tagliare test per rispettare date"
+    },
+    "correct": "B",
+    "rationale": "Qualità integrata nel flusso."
+  },
+  {
+    "id": "Q090",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q091",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q092",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q093",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Easy",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q094",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q095",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q096",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q097",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Medium",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q098",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Hard",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q099",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Easy",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q100",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Hard",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q101",
+    "domain_ECO": "Process",
+    "performance_domain": "Measurement",
+    "approach": "Predictive",
+    "difficulty": "Easy",
+    "stem": "Formule EVM corrette.",
+    "options": {
+      "A": "BAC varia sempre",
+      "B": "SV=EV−PV e CPI=EV/AC",
+      "C": "SV=AC−EV",
+      "D": "Nessuna"
+    },
+    "correct": "B",
+    "rationale": "Definizioni standard EVM."
+  },
+  {
+    "id": "Q102",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q103",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q104",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q105",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q106",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q107",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q108",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Easy",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q109",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q110",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q111",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q112",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Medium",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q113",
+    "domain_ECO": "People",
+    "performance_domain": "Team",
+    "approach": "Hybrid",
+    "difficulty": "Hard",
+    "stem": "PM impone daily report dettagliati.",
+    "options": {
+      "A": "Migliora fiducia",
+      "B": "Micromanagement e demotivazione",
+      "C": "Niente impatto",
+      "D": "Aumenta autonomia"
+    },
+    "correct": "B",
+    "rationale": "Eccesso controllo danneggia motivazione."
+  },
+  {
+    "id": "Q114",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q115",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q116",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q117",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q118",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q119",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q120",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q121",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Hard",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q122",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q123",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q124",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Medium",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  },
+  {
+    "id": "Q125",
+    "domain_ECO": "Business Environment",
+    "performance_domain": "Delivery",
+    "approach": "Agile",
+    "difficulty": "Easy",
+    "stem": "Management chiede date fisse.",
+    "options": {
+      "A": "No date mai",
+      "B": "Roadmap a finestra + forecast su throughput",
+      "C": "Date fisse senza dati",
+      "D": "Nascondi incertezze"
+    },
+    "correct": "B",
+    "rationale": "Usa finestre e dati reali di flusso."
+  }
+]
